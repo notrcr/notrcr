@@ -25,11 +25,6 @@ Hi 👋, I'm Ricardo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
   <span>SUPABASE</span>
 
-  
-- ⚛️ React / Next.js
-- 🟦 TypeScript
-- 🐘 PostgreSQL
-- 🟢 Supabase
 </p>
 
 🎯 
