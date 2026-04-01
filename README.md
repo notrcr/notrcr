@@ -23,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
 </p>
 
----
-
 ### ⚡ Tech Stack
 - ⚛️ React / Next.js
 - 🟦 TypeScript
