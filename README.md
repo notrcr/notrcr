@@ -1,26 +1,35 @@
-Hi <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="12px" height="12px" viewBox="0 0 12 12">
-  <path d="m7,4.75l.638-2.031c.225-.716-.114-1.488-.794-1.807l-.345-.162-2.802,3.449c-.29.357-.448.802-.448,1.261v3.79c0,1.105.895,2,2,2h3.229c.878,0,1.653-.573,1.912-1.412l.769-2.5c.396-1.286-.566-2.588-1.912-2.588h-2.249Z" fill="none" stroke="#1c1f21" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
-  <line x1=".75" y1="10.75" x2=".75" y2="5.25" fill="none" stroke="#1c1f21" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" data-color="color-2"></line>
+Hi<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <path d="M5.5 1.5c.4-.4 1-.4 1.4 0l.6.6c.4.4.4 1 0 1.4L4 7h3.5l4.5-4.5c.4-.4 1-.4 1.4 0 .4.4.4 1 0 1.4L9.5 8H12c.4 0 .75.15 1 .4.6.6.6 1.5-.1 2.1L10 13.4c-1 1-2.3 1.6-3.7 1.6H4c-1.1 0-2-.9-2-2V9c0-.8.3-1.6.9-2.1L5.5 4.5V1.5Z" fill="none" stroke="#1c1f21" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>, I'm Ricardo
 <p align="center">
   <b>Product Engineer</b>
 </p>
 
 
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="18px" height="18px" viewBox="0 0 18 18">
-  <path d="M5.658,2.99l-1.263-.421-.421-1.263c-.137-.408-.812-.408-.949,0l-.421,1.263-1.263,.421c-.204,.068-.342,.259-.342,.474s.138,.406,.342,.474l1.263,.421,.421,1.263c.068,.204,.26,.342,.475,.342s.406-.138,.475-.342l.421-1.263,1.263-.421c.204-.068,.342-.259,.342-.474s-.138-.406-.342-.474Z" fill="#1c1f21" data-color="color-2"></path>
-  <polygon points="9.5 2.75 11.412 7.587 16.25 9.5 11.412 11.413 9.5 16.25 7.587 11.413 2.75 9.5 7.587 7.587 9.5 2.75" fill="none" stroke="#1c1f21" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></polygon>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <circle cx="8" cy="7" r="3.25" fill="none" stroke="#1c1f21" stroke-width="1.5"/>
+  <line x1="8" y1="10.25" x2="8" y2="14" stroke="#1c1f21" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="5.5" y1="14" x2="10.5" y2="14" stroke="#1c1f21" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="8" y1="1" x2="8" y2="3.75" stroke="#1c1f21" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="2" y1="4" x2="4.3" y2="5.35" stroke="#1c1f21" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="14" y1="4" x2="11.7" y2="5.35" stroke="#1c1f21" stroke-width="1.5" stroke-linecap="round"/>
 </svg>My Interests: LLMs, AI, Music, and Technologies.
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="12px" height="12px" viewBox="0 0 12 12">
-  <path d="m11.544.458c-.413-.414-1.016-.562-1.573-.381L1.078,2.935C.486,3.125.077,3.627.01,4.244c-.068.618.224,1.197.761,1.511l2.784,1.63,2.74-2.74c.293-.293.768-.293,1.061,0,.293.293.293.768,0,1.061l-2.736,2.736,1.626,2.789c.283.486.784.771,1.334.771.058,0,.116-.003.175-.01.618-.067,1.12-.476,1.311-1.068l2.858-8.894c.179-.557.033-1.159-.38-1.572Z" stroke-width="0" fill="#1c1f21"></path>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect x="1.5" y="3.5" width="13" height="9" rx="1.5" fill="none" stroke="#1c1f21" stroke-width="1.5" stroke-linejoin="round"/>
+  <polyline points="1.5,4.5 8,9 14.5,4.5" fill="none" stroke="#1c1f21" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>How to reach me: ricardoong2020@gmail.com
 
 
-🛠️ Languages and Tools
+ Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  React
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  Next JS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  TypeScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  PostgreSQL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  SUPABASE
 </p>
