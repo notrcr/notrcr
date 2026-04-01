@@ -25,6 +25,9 @@ Hi 👋, I'm Ricardo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
   <span>SUPABASE</span>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<span>GIT</span>
+
 </p>
 
 🎯 
