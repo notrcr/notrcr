@@ -1,9 +1,7 @@
 
 Hi 👋, I'm Ricardo
-
-<p align="center">
-  <b>Product Engineer</b>
-</p>
+ 
+<b>Product Engineer</b> 
 
 👨‍💻 About Me 
 
