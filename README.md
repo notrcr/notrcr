@@ -3,8 +3,6 @@ Hi 👋, I'm Ricardo
  
 <b>Product Engineer</b> 
 
-👨‍💻 About Me 
-
 💡 Interests: LLMs, AI, Music, and Technologies
 
 📫 Reach me at: ricardoong2020@gmail.com
