@@ -6,8 +6,8 @@ Hi 👋, I'm Ricardo
 👨‍💻 About Me 
 
 💡 Interests: LLMs, AI, Music, and Technologies
-📫 Reach me at: ricardoong2020@gmail.com
 
+📫 Reach me at: ricardoong2020@gmail.com
 
  Languages and Tools
  
